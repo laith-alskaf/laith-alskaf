@@ -17,7 +17,7 @@
 
 ### 🧠 About Me
 
-- 🎓 M.Sc. in Web Science (in progress) | B.Sc. in Software Engineering  
+- 🎓 Education: M.Sc. in Web Science (Syrian Virtual University, in progress) | B.Sc. in Software Engineering  
 - 💼 3+ years of experience building cross-platform mobile apps using **Flutter & Dart**  
 - 🔧 Building advanced backend systems with **Node.js + Clean Architecture**
 - 🌐 Passionate about writing clean, scalable code and improving developer experience  
