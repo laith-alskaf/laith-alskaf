@@ -1,8 +1,6 @@
 <!-- Banner or Header GIF -->
 <div align="center">
-
-# Hi, I'm Laith Alskaf 👋
-
+  
 ### Software Engineer • Cross-Platform & Backend Engineer • AI-Augmented Product Builder
 
 Building scalable digital products that solve real-world problems through modern software engineering, clean architecture, and AI-powered development workflows.
