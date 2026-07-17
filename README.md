@@ -1,27 +1,85 @@
 <!-- Banner or Header GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi there 👋, I'm Laith Alskaf</h1>
+# Hi, I'm Laith Alskaf 👋
 
-<p align="center">
-  🚀 Passionate Flutter Developer | 💻 Backend Engineer in Progress | 🌍 Remote Tech Enthusiast  
-</p>
+### Software Engineer • Cross-Platform & Backend Engineer • AI-Augmented Product Builder
 
-<p align="center">
-  🔍 Looking for opportunities as a Remote Flutter Developer or Backend Engineer (Node.js)!
-</p>
+Building scalable digital products that solve real-world problems through modern software engineering, clean architecture, and AI-powered development workflows.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge)](https://laith-alskaf.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laith_Alskaf-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/laith-alskaf-10a4b4339)
+[![Email](https://img.shields.io/badge/Email-laithalskaf@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laithalskaf@gmail.com)
+
+</div>
 
 ---
 
-### 🧠 About Me
+## 👨‍💻 About Me
 
-- 🎓 Education: M.Sc. in Web Science (Syrian Virtual University, in progress) | B.Sc. in Software Engineering  
-- 💼 3+ years of experience building cross-platform mobile apps using **Flutter & Dart**  
-- 🔧 Building advanced backend systems with **Node.js + Clean Architecture**
-- 🌐 Passionate about writing clean, scalable code and improving developer experience  
-- ✈️ Aspiring digital nomad, open to **remote opportunities**  
+I'm a Software Engineer passionate about designing and building reliable software products that create measurable impact.
+
+My work spans cross-platform mobile applications, backend systems, enterprise software, and offline-first digital products. I enjoy transforming complex business challenges into scalable, maintainable, and user-centered solutions by combining modern software architecture with AI-augmented engineering workflows.
+
+I primarily build production-ready applications using Flutter, Node.js, TypeScript, PostgreSQL, Firebase, and Supabase while following Clean Architecture, SOLID principles, and modern DevOps practices.
+
+Beyond writing code, I enjoy designing software architecture, optimizing development workflows, and building products that people genuinely rely on every day.
+
+---
+
+## 🏗 Engineering Philosophy
+
+I believe exceptional software is built on strong engineering principles rather than frameworks alone.
+
+My goal is to create products that are:
+
+- Scalable and maintainable
+- User-centered and performance-oriented
+- Secure by design
+- Easy to evolve over time
+- Supported by automated workflows and modern development practices
+
+I continuously explore better ways to combine software engineering with AI-powered workflows to improve productivity, software quality, and long-term maintainability.
+
+---
+
+## 🚀 Engineering Highlights
+
+✔ Cross-Platform Application Development
+
+✔ Backend API Development
+
+✔ Enterprise Software Solutions
+
+✔ Offline-First Architecture
+
+✔ Clean Architecture & SOLID Principles
+
+✔ AI-Augmented Software Engineering
+
+✔ RESTful API Design & Integration
+
+✔ CI/CD Automation
+
+✔ Real-Time Systems
+
+✔ Interactive Maps & Geospatial Applications
+
+✔ Secure Authentication & Authorization
+
+✔ Performance Optimization
+
+✔ Multi-Platform Deployment
+
+---
+
+## 🌍 Building Products That Make Real Impact
+
+Rather than building demonstration projects, I enjoy creating software that solves real-world problems and delivers measurable value.
+
+Some of the products I've built are actively used by communities, businesses, and organizations to simplify daily operations, improve accessibility, and enhance user experience.
 
 ---
 
