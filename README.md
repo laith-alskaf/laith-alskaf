@@ -28,18 +28,18 @@
 
 ## 👨‍💻 About Me
 
-I design and build **production-ready software** that solves real-world problems.
+I build production-ready software products that solve real-world problems through modern software engineering, scalable architecture, and AI-augmented development.
 
-My work spans **cross-platform applications**, **backend systems**, **offline-first architectures**, **DevOps automation**, and **AI-powered engineering workflows**. I enjoy transforming complex ideas into scalable digital products that people rely on every day.
+Over the past 4+ years, I've designed and delivered cross-platform applications, full-stack systems, enterprise platforms, and AI-powered products across community services, transportation, financial technology, and business intelligence. I enjoy taking products from idea to production by combining thoughtful architecture, clean code, automation, and user-centered design.
 
-From community platforms serving **hundreds of families** to enterprise transportation systems managing **entire fleet operations**, and intelligent financial management products — my focus is always on building software that creates **measurable impact**.
+My engineering expertise spans cross-platform development, backend systems, offline-first architecture, DevOps automation, API design, and AI integration. I leverage modern AI workflows to accelerate delivery, improve software quality, and build maintainable systems that create measurable value.
 
 ```text
-🎓  B.Sc. Software Engineering — Homs University, Syria (2024)
-💼  4+ years of professional software engineering experience
-🏢  Built & scaled enterprise systems at ATMTA Technological Solutions
-📱  Products deployed on Google Play, enterprise environments & Linux VPS
-🤖  AI-augmented engineering workflows for accelerated delivery
+- 🎓 **B.Sc. in Software Engineering** — Homs University, Syria (2024)
+- 💼 **4+ years** of professional software engineering experience
+- 🏢 Built and scaled enterprise software at **ATMTA Technological Solutions**
+- 🚀 Delivered products used by communities, businesses, and enterprise environments
+- 🤖 Passionate about AI-augmented software engineering and modern product development
 ```
 
 ---
