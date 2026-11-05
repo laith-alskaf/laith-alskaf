@@ -2,14 +2,16 @@
 
 <div align="center">
 
-**Software engineer from Syria building offline-first mobile apps, back-office systems, and the pipelines that ship them.**
+**Software engineer from Syria building offline-first mobile apps, back-office systems, AI-powered tools, and the pipelines that ship them.**
+
+مهندس برمجيات من سوريا · Flutter · Node.js · Python
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-laith--alskaf.github.io-70a5fd?style=for-the-badge&logo=googlechrome&logoColor=white)](https://laith-alskaf.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laith_Alskaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laith-alskaf-10a4b4339)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laithalskaf@gmail.com)
 [![CV](https://img.shields.io/badge/Resume-Download_CV-fc6d26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1lp_xM18US97VWQF2UkeGHazsleeqnFwC/view?usp=drivesdk)
 
-`🇸🇾 Syria` · `🌍 Open to remote opportunities`
+`🇸🇾 Syria` · `🌍 Open to remote opportunities` · `🗣 Arabic (native) · English (intermediate)`
 
 </div>
 
@@ -17,40 +19,57 @@
 
 ## 👨‍💻 About
 
-I'm a software engineer with 4+ years of experience across cross-platform apps, backend APIs, and CI/CD. I've shipped products for community services, transportation, finance, and internal business tools, and I care most about three things: clean architecture, apps that keep working without a connection, and automated delivery.
+I'm a software engineer with 4+ years of experience across cross-platform apps, backend APIs, AI integrations, and CI/CD. I've shipped products for community services, transportation, finance, and internal business tools. I care most about clean architecture, apps that keep working without a connection, and automated delivery.
 
-- 🎓 **B.Sc. Software Engineering** — Homs University (2024)
-- 🏢 **Software Engineer** at ATMTA Technological Solutions (2025 – 2026), remote
-- 📱 Main stack: **Flutter / Dart**, **Node.js / TypeScript**, **Firebase**, **Supabase**, **PostgreSQL**
-- 🤖 I use AI tools daily to move faster on design, boilerplate, and review, and I own the architecture and the result.
+- 🎓 **B.Sc. Software Engineering** — University of Homs (2019 – 2024)
+- 🏢 **Software Engineer** at ATMTA Technological Solutions (Nov 2025 – Jun 2026), remote
+- 💼 **Freelance Flutter developer** since 2022
+- 📱 Main stack: **Flutter / Dart**, **Node.js / TypeScript**, **Python**, **Firebase**, **Supabase**, **PostgreSQL / MongoDB**
+- 🤖 I use AI tools daily for design, boilerplate, and review, and I own the architecture and the result.
 
 ---
 
 ## 🚀 Featured Products
 
-| Product | What it does | Stack | Code |
+| Product | What it does | Stack | Links |
 |---|---|---|---|
-| **🏘 Neighborhood Guide** — دليل الضاحية | Offline-first community platform: local business directory with open/closed status, duty pharmacies, bakery schedule, daily offers, and a clustered map. Used by 500+ families. | Flutter, Supabase (RLS), Hive, FCM, OpenStreetMap, BLoC | Private |
-| **🚌 Masar** — مسار | Transportation ERP: 23+ modules, 4 roles (Super Admin, Agent, Driver, Inspector), QR ticket validation, Bluetooth thermal printing, push notifications, auto-deployed admin portal. | Flutter, BLoC, Firebase, GitHub Actions | Company project |
-| **🎫 Musafer** — مسافر | Intercity bus booking: trip search, interactive seat map, OTP login, digital QR boarding pass, push status updates. | Flutter, BLoC, Firebase, GitHub Actions | Company project |
-| **💰 Radar Al-Masrouf** — رادار المصروف | Offline personal finance app for Arab families: multi-currency wallet (SYP, USD, EUR, SAR, AED), bills, savings goals, debts, analytics, and backup/restore. | Flutter, Clean Architecture, Material 3, fl_chart | [HomeBuy_Manager](https://github.com/laith-alskaf/HomeBuy_Manager) |
-| **📋 Purchase Management** | Procurement platform with a 5-role approval workflow (GM, Finance, Procurement, Assistant, Auditor), vendor directory, reports, Arabic/English UI, Windows + Android. | Flutter, Node.js, TypeScript, PostgreSQL | Private |
+| **🏘 Neighborhood Guide** — دليل الضاحية | Offline-first community platform for hundreds of local families: business directory with live open/closed status, duty pharmacy scheduling, daily offers, clustered map, community submissions with an admin moderation queue. Delta-sync fetches only changed records to save mobile data. | Flutter, BLoC, Hive, Supabase (RLS, Edge Functions), FCM, OpenStreetMap | [Live](https://aldahiya.vercel.app/) |
+| **🚌 Masar** — مسار | Transport operations ERP with 23+ modules and 5 roles (Super Admin, Supervisor, Booking Agent, Driver, Inspector): fleet, routes, trips, pricing, QR ticket validation, Bluetooth thermal printing, financial reports. Built at ATMTA. | Flutter, BLoC, Dio, GoRouter, FCM, GitHub Actions | [Live](https://masar.admda.online/) |
+| **🎫 Musafer** — مسافر | Intercity bus booking: real-time trip search, interactive seat map, OTP login, digital QR boarding pass, push updates, Arabic/English with RTL. Built at ATMTA. | Flutter, BLoC, Dio, GoRouter, FCM, GitHub Actions | [Live](https://www.musafer.app/) |
+| **🧠 ReviewIQ** — AI review intelligence | Full-stack platform (Flask API, web dashboard, Flutter app) that scores customer reviews: sentiment and toxicity detection (Hugging Face), LLM summaries and suggested replies (DeepSeek), Tally webhook ingestion, Telegram alerts, CSV/JSON export. | Python, Flask, MongoDB, Hugging Face, DeepSeek, Flutter, Chart.js | [Code](https://github.com/laith-alskaf/reputation-guardian) · [Demo](https://reputation-guardianapp.vercel.app/index.html) |
+| **💰 Radar Al-Masrouf** — رادار المصروف | Offline personal finance app for Arab families: multi-currency wallets (SYP, USD, EUR, SAR, AED), budgets, bills, savings goals, debts, analytics, backup and restore. | Flutter, Clean Architecture, Material 3, fl_chart | [Code](https://github.com/laith-alskaf/HomeBuy_Manager) |
+| **📋 Purchase Management** | Procurement system with a 5-role approval workflow, vendors, items, audit logs, reports, and Arabic/English UI on Windows and Android. | Flutter, GetX, Node.js, TypeScript, PostgreSQL | Private client project |
+| **🤖 Training Center Platform** | Telegram-bot system for course management, student registration with admin approval, payment tracking, reminders, and Facebook/Instagram post automation. | Python, MongoDB (Motor), Telegram Bot API, Google APIs, Meta Graph API | Private client project |
 
 <details>
 <summary><b>📂 More projects</b></summary>
 <br/>
 
-| Project | Type | Stack | Code |
+| Project | Type | Stack | Links |
 |---|---|---|---|
-| **iDBOOK** | Local marketplace (released on Google Play) | Flutter, Firebase, Socket.IO, Google Maps | — |
-| **Team Management** | Internal tool at YES for Online Services — +30% productivity across 20+ employees | Flutter, Socket.IO, Firebase, Node.js | Private |
-| **E-Commerce API** | Clean Architecture backend with role-based access and Swagger docs | Node.js, TypeScript, MongoDB, JWT | [repo](https://github.com/laith-alskaf/ecommerce-backend-clean-architecture) |
-| **Car Service** | Graduation project: parking & maintenance booking with admin statistics | Flutter, Socket.IO, Firebase, Node.js | [repo](https://github.com/laith-alskaf/car_service) |
-| **BetterMe** | Final-year project: health assistant with BMI tracking and ChatGPT API | Flutter, Firebase | [repo](https://github.com/laith-alskaf/better-me) |
-| **Darrebni National** | Study platform for the Syrian National Unified Exam | Flutter, Firebase | [repo](https://github.com/laith-alskaf/darrebni_national-Project) |
-| **Movie Explorer** | Bilingual movie discovery with i18n and RTL support | React, Zustand, TMDB API, Tailwind | [repo](https://github.com/laith-alskaf/movie-explorer-react) |
+| **iDBOOK** and **iDBOOK Agent** | Local marketplace app and its QR payment-activation companion, at YES for Online Services | Flutter, GetX, Socket.IO, Google Maps, Node.js | [Google Play](https://play.google.com/store/apps/details?id=com.yesforonlineservices.idbook) |
+| **Team Management** | Desktop and mobile internal tool, +30% productivity across 20+ employees; I was lead mobile developer | Flutter, GetX, Socket.IO, Hive, Node.js | Internal |
+| **ATMTA Corporate Website** | Bilingual company site that I directed end to end with AI-assisted development (my first Next.js project) | Next.js, React, Tailwind, GitHub Actions, PM2 | [Live](https://atmta.sy/) |
+| **E-Commerce API** | Clean Architecture backend with JWT, roles, and Swagger docs | Node.js, TypeScript, MongoDB, PostgreSQL | [Code](https://github.com/laith-alskaf/ecommerce-backend-clean-architecture) · [API docs](https://ecommerce-backend-clean-architecture.vercel.app/api-docs/) |
+| **Car Service** | Graduation project: parking and maintenance booking with admin statistics | Flutter, Socket.IO, Firebase, Google Maps | [Code](https://github.com/laith-alskaf/car_service) |
+| **BetterMe** | Final-year project: health assistant with BMI tracking and ChatGPT API | Flutter, Firebase | [Code](https://github.com/laith-alskaf/better-me) |
+| **Darrebni National** | Study platform for the Syrian National Unified Exam, built during training | Flutter, Firebase | [Code](https://github.com/laith-alskaf/darrebni_national-Project) |
+| **Movie Explorer** | Bilingual movie discovery with i18n and RTL support | React, Zustand, TMDB API, Tailwind | [Code](https://github.com/laith-alskaf/movie-explorer-react) |
 
 </details>
+
+---
+
+## 🧭 How I Build
+
+Concrete practices from the products above, not slogans:
+
+- **Architecture:** Clean Architecture with BLoC in Flutter; repository pattern and use cases on the backend.
+- **Offline-first:** local caching with Hive and timestamp-based delta sync, so apps stay fast on weak networks.
+- **Security:** Supabase Row Level Security for guest vs admin access; JWT with role-based access control; keystore and secrets kept in GitHub Secrets.
+- **Delivery:** GitHub Actions for lint and static analysis, signed APK/AAB builds, and web deployment to a Linux VPS over SSH/rsync with PM2 restarts.
+- **Hardware and real time:** Bluetooth thermal printing, QR scanning, FCM push, and Socket.IO chat.
+- **Localization:** Arabic-first UI with full RTL support in every product.
 
 ---
 
@@ -58,14 +77,15 @@ I'm a software engineer with 4+ years of experience across cross-platform apps, 
 
 | Area | Tools |
 |---|---|
-| **Mobile** | Flutter, Dart, BLoC, Clean Architecture, Hive, offline-first sync |
-| **Backend** | Node.js, Express, TypeScript, REST, JWT, Socket.IO, Supabase (RLS, Edge Functions), PostgreSQL, MongoDB, Firebase |
-| **Frontend** | React, Vue.js, JavaScript, Tailwind, i18n, RTL |
-| **DevOps** | GitHub Actions (signed APK/AAB), VPS deploy via SSH/rsync, PM2, Docker, Swagger |
-| **AI** | Prompt engineering, LLM API integration, AI-assisted development workflow |
+| **Mobile** | Flutter, Dart, BLoC, GetX, Provider, GoRouter, Dio, Hive, SQLite |
+| **Backend** | Node.js, Express, TypeScript, Python (Flask), REST, JWT, Socket.IO, Swagger |
+| **Data** | Supabase (PostgreSQL, RLS, Edge Functions), Firebase (Auth, Firestore, FCM), MongoDB |
+| **Frontend** | React, Vue.js, Next.js (basic), Tailwind, i18n, RTL |
+| **DevOps** | Git, GitHub Actions, Linux VPS, PM2, SSH/rsync, Docker (basics) |
+| **AI** | Hugging Face models, LLM API integration (DeepSeek, ChatGPT), prompt engineering, AI-assisted development |
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,ts,react,vue,firebase,supabase,postgres,mongodb,docker,githubactions,git,figma" alt="Tech icons" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,ts,python,flask,react,vue,firebase,supabase,postgres,mongodb,githubactions,git,figma" alt="Tech icons" />
 </div>
 
 ---
@@ -74,21 +94,21 @@ I'm a software engineer with 4+ years of experience across cross-platform apps, 
 
 | Period | Role | Company | Highlights |
 |---|---|---|---|
-| 2025 – 2026 | Software Engineer (Remote) | ATMTA Technological Solutions | Scaled two production Flutter apps (Musafer, Masar); built CI/CD from GitHub Actions to signed APK to VPS; integrated Bluetooth printing, QR scanning, FCM; led AI-driven website strategy |
-| 2023 – 2024 | Flutter Developer (Hybrid) | YES for Online Services | Built iDBOOK and iDBOOK Agent (Google Play); Team Management app; iOS, Android, Windows |
-| 2022 – now | Freelance Flutter Developer | Self-employed | Custom mobile solutions for clients |
-| 2023 | Trainee | Darrebni Company | Agile team projects, Flutter Clean Architecture, state management |
-| 2022 | Trainee | Japan Syria Friendship Association | Flutter training: UI, animations, state management |
+| Nov 2025 – Jun 2026 | Software Engineer (Remote) | ATMTA Technological Solutions | Built and scaled Musafer and Masar; designed the CI/CD pipelines; integrated Bluetooth printing, QR scanning, and FCM; directed the company website with AI-driven workflows; pitched the booking platform to regional transport operators |
+| Nov 2023 – Oct 2024 | Flutter Developer (Hybrid) | YES for Online Services | Shipped iDBOOK and iDBOOK Agent; led mobile development of the Team Management app (iOS, Android, Windows) |
+| 2022 – now | Freelance Flutter Developer | Self-employed | Custom apps for clients: e-commerce, food ordering, health tracking, community platforms |
+| Mar – Nov 2023 | Flutter Trainee | Darrebni Company | Agile team projects; built Darrebni National as the final training project |
+| Oct – Nov 2022 | Flutter Trainee | Japan Syria Friendship Association | Flutter training: UI, animations, state management |
 
-**Training & recommendations:** Flutter Mobile Development — Internship Pakistan (2024) · Recommendation letter — Darrebni Company (2023) · Flutter Training — Japan Syria Friendship Association (2022)
+**Training:** Flutter Mobile Development — Internship Pakistan (2024) · Flutter Training — Japan Syria Friendship Association (2022) · Recommendation letter — Darrebni Company (2023)
 
 ---
 
 ## 🎯 Currently Focused On
 
 - Offline-first community platforms and sync strategies
+- AI-powered tools for small businesses (NLP, LLM integration)
 - Multi-role enterprise systems and clean backend architecture
-- AI-assisted engineering workflows and developer productivity
 
 ---
 
