@@ -13,6 +13,8 @@
 
 `🇸🇾 Syria` · `🌍 Open to remote opportunities` · `🗣 Arabic (native) · English (intermediate)`
 
+**New:** every project below has a page on my [portfolio](https://laith-alskaf.github.io/portfolio/) told twice, in plain language for everyone and in engineer mode, in Arabic and English. · كل مشروع له صفحة على [موقعي](https://laith-alskaf.github.io/portfolio/) بشرح مبسّط للجميع وشرح تقني للمهندسين.
+
 </div>
 
 ---
@@ -33,13 +35,13 @@ I'm a software engineer with 4+ years of experience across cross-platform apps, 
 
 | Product | What it does | Stack | Links |
 |---|---|---|---|
-| **🏘 Neighborhood Guide** — دليل الضاحية | Offline-first community platform for hundreds of local families: business directory with live open/closed status, duty pharmacy scheduling, daily offers, clustered map, community submissions with an admin moderation queue. Delta-sync fetches only changed records to save mobile data. | Flutter, BLoC, Hive, Supabase (RLS, Edge Functions), FCM, OpenStreetMap | [Live](https://aldahiya.vercel.app/) |
-| **🚌 Masar** — مسار | Transport operations ERP with 23+ modules and 5 roles (Super Admin, Supervisor, Booking Agent, Driver, Inspector): fleet, routes, trips, pricing, QR ticket validation, Bluetooth thermal printing, financial reports. Built at ATMTA. | Flutter, BLoC, Dio, GoRouter, FCM, GitHub Actions | [Product page](https://atmta.sy/products/masar) |
-| **🎫 Musafer** — مسافر | Intercity bus booking: real-time trip search, interactive seat map, OTP login, digital QR boarding pass, push updates, Arabic/English with RTL. Built at ATMTA. | Flutter, BLoC, Dio, GoRouter, FCM, GitHub Actions | [Website](https://www.musafer.app/) · [Google Play](https://play.google.com/store/apps/details?id=com.atmta.musafer) |
-| **🧠 ReviewIQ** — AI review intelligence | Full-stack platform (Flask API, web dashboard, Flutter app) that scores customer reviews: sentiment and toxicity detection (Hugging Face), LLM summaries and suggested replies (DeepSeek), Tally webhook ingestion, Telegram alerts, CSV/JSON export. | Python, Flask, MongoDB, Hugging Face, DeepSeek, Flutter, Chart.js | [Code](https://github.com/laith-alskaf/reputation-guardian) · [Demo](https://reputation-guardianapp.vercel.app/index.html) |
-| **💰 Radar Al-Masrouf** — رادار المصروف | Offline personal finance app for Arab families: multi-currency wallets (SYP, USD, EUR, SAR, AED), budgets, bills, savings goals, debts, analytics, backup and restore. | Flutter, Clean Architecture, Material 3, fl_chart | [Code](https://github.com/laith-alskaf/HomeBuy_Manager) |
-| **📋 Purchase Management** | Procurement system with a 5-role approval workflow, vendors, items, audit logs, reports, and Arabic/English UI on Windows and Android. | Flutter, GetX, Node.js, TypeScript, PostgreSQL | Private client project |
-| **🤖 Training Center Platform** | Telegram-bot system for course management, student registration with admin approval, payment tracking, reminders, and Facebook/Instagram post automation. | Python, MongoDB (Motor), Telegram Bot API, Google APIs, Meta Graph API | Private client project |
+| **🏘 Neighborhood Guide** — دليل الضاحية | Offline-first community platform for hundreds of local families: business directory with live open/closed status, duty pharmacy scheduling, daily offers, clustered map, community submissions with an admin moderation queue. Delta-sync fetches only changed records to save mobile data. | Flutter, BLoC, Hive, Supabase (RLS, Edge Functions), FCM, OpenStreetMap | [Live](https://aldahiya.vercel.app/) · [Story](https://laith-alskaf.github.io/portfolio/p/neighborhood-guide/) |
+| **🚌 Masar** — مسار | Transport operations ERP with 23+ modules and 5 roles (Super Admin, Supervisor, Booking Agent, Driver, Inspector): fleet, routes, trips, pricing, QR ticket validation, Bluetooth thermal printing, financial reports. Built at ATMTA. | Flutter, BLoC, Dio, GoRouter, FCM, GitHub Actions | [Product page](https://atmta.sy/products/masar) · [Story](https://laith-alskaf.github.io/portfolio/p/masar/) |
+| **🎫 Musafer** — مسافر | Intercity bus booking: real-time trip search, interactive seat map, OTP login, digital QR boarding pass, push updates, Arabic/English with RTL. Built at ATMTA. | Flutter, BLoC, Dio, GoRouter, FCM, GitHub Actions | [Website](https://www.musafer.app/) · [Google Play](https://play.google.com/store/apps/details?id=com.atmta.musafer) · [Story](https://laith-alskaf.github.io/portfolio/p/musafer/) |
+| **🧠 ReviewIQ** — AI review intelligence | Full-stack platform (Flask API, web dashboard, Flutter app) that scores customer reviews: sentiment and toxicity detection (Hugging Face), LLM summaries and suggested replies (DeepSeek), Tally webhook ingestion, Telegram alerts, CSV/JSON export. | Python, Flask, MongoDB, Hugging Face, DeepSeek, Flutter, Chart.js | [Code](https://github.com/laith-alskaf/reputation-guardian) · [Demo](https://reputation-guardianapp.vercel.app/index.html) · [Story](https://laith-alskaf.github.io/portfolio/p/reviewiq/) |
+| **💰 Radar Al-Masrouf** — رادار المصروف | Offline personal finance app for Arab families: multi-currency wallets (SYP, USD, EUR, SAR, AED), budgets, bills, savings goals, debts, analytics, backup and restore. | Flutter, Clean Architecture, Material 3, fl_chart | [Code](https://github.com/laith-alskaf/HomeBuy_Manager) · [Story](https://laith-alskaf.github.io/portfolio/p/radar-almasrouf/) |
+| **📋 Purchase Management** | Procurement system with a 5-role approval workflow, vendors, items, audit logs, reports, and Arabic/English UI on Windows and Android. | Flutter, GetX, Node.js, TypeScript, PostgreSQL | Private client project · [Story](https://laith-alskaf.github.io/portfolio/p/purchase-management/) |
+| **🤖 Training Center Platform** | Telegram-bot system for course management, student registration with admin approval, payment tracking, reminders, and Facebook/Instagram post automation. | Python, MongoDB (Motor), Telegram Bot API, Google APIs, Meta Graph API | Private client project · [Story](https://laith-alskaf.github.io/portfolio/p/training-center-bot/) |
 
 <details>
 <summary><b>📂 More projects</b></summary>
@@ -47,13 +49,13 @@ I'm a software engineer with 4+ years of experience across cross-platform apps, 
 
 | Project | Type | Stack | Links |
 |---|---|---|---|
-| **iDBOOK** and **iDBOOK Agent** | Local marketplace app and its QR payment-activation companion, at YES for Online Services | Flutter, GetX, Socket.IO, Google Maps, Node.js | [Google Play](https://play.google.com/store/apps/details?id=com.yesforonlineservices.idbook) |
-| **Team Management** | Desktop and mobile internal tool, +30% productivity across 20+ employees; I was lead mobile developer | Flutter, GetX, Socket.IO, Hive, Node.js | Internal |
-| **ATMTA Corporate Website** | Bilingual company site that I directed end to end with AI-assisted development (my first Next.js project) | Next.js, React, Tailwind, GitHub Actions, PM2 | [Live](https://atmta.sy/) |
-| **E-Commerce API** | Clean Architecture backend with JWT, roles, and Swagger docs | Node.js, TypeScript, MongoDB, PostgreSQL | [Code](https://github.com/laith-alskaf/ecommerce-backend-clean-architecture) · [API docs](https://ecommerce-backend-clean-architecture.vercel.app/api-docs/) |
-| **Car Service** | Graduation project: parking and maintenance booking with admin statistics | Flutter, Socket.IO, Firebase, Google Maps | [Code](https://github.com/laith-alskaf/car_service) |
-| **BetterMe** | Final-year project: health assistant with BMI tracking and ChatGPT API | Flutter, Firebase | [Code](https://github.com/laith-alskaf/better-me) |
-| **Darrebni National** | Study platform for the Syrian National Unified Exam, built during training | Flutter, Firebase | [Code](https://github.com/laith-alskaf/darrebni_national-Project) |
+| **iDBOOK** and **iDBOOK Agent** | Local marketplace app and its QR payment-activation companion, at YES for Online Services | Flutter, GetX, Socket.IO, Google Maps, Node.js | [Google Play](https://play.google.com/store/apps/details?id=com.yesforonlineservices.idbook) · [Story](https://laith-alskaf.github.io/portfolio/p/idbook/) |
+| **Team Management** | Desktop and mobile internal tool, +30% productivity across 20+ employees; I was lead mobile developer | Flutter, GetX, Socket.IO, Hive, Node.js | Internal · [Story](https://laith-alskaf.github.io/portfolio/p/team-management/) |
+| **ATMTA Corporate Website** | Bilingual company site that I directed end to end with AI-assisted development (my first Next.js project) | Next.js, React, Tailwind, GitHub Actions, PM2 | [Live](https://atmta.sy/) · [Story](https://laith-alskaf.github.io/portfolio/p/atmta-website/) |
+| **E-Commerce API** | Clean Architecture backend with JWT, roles, and Swagger docs | Node.js, TypeScript, MongoDB, PostgreSQL | [Code](https://github.com/laith-alskaf/ecommerce-backend-clean-architecture) · [API docs](https://ecommerce-backend-clean-architecture.vercel.app/api-docs/) · [Story](https://laith-alskaf.github.io/portfolio/p/ecommerce-api/) |
+| **Car Service** | Graduation project: parking and maintenance booking with admin statistics | Flutter, Socket.IO, Firebase, Google Maps | [Code](https://github.com/laith-alskaf/car_service) · [Story](https://laith-alskaf.github.io/portfolio/p/car-service/) |
+| **BetterMe** | Final-year project: health assistant with BMI tracking and ChatGPT API | Flutter, Firebase | [Code](https://github.com/laith-alskaf/better-me) · [Story](https://laith-alskaf.github.io/portfolio/p/betterme/) |
+| **Darrebni National** | Study platform for the Syrian National Unified Exam, built during training | Flutter, Firebase | [Code](https://github.com/laith-alskaf/darrebni_national-Project) · [Story](https://laith-alskaf.github.io/portfolio/p/darrebni-national/) |
 | **Movie Explorer** | Bilingual movie discovery with i18n and RTL support | React, Zustand, TMDB API, Tailwind | [Code](https://github.com/laith-alskaf/movie-explorer-react) |
 
 </details>
